@@ -40,11 +40,12 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - groupscholar-review-queue-forecaster
 - groupscholar-partner-renewal-tracker
 - groupscholar-review-latency-lab
-- groupscholar-support-triage
 - groupscholar-pacing-console
 - groupscholar-donor-briefs: donor brief CLI for fundraising summaries
-- groupscholar-intervention-planner: intervention planning CLI for scholar outreach cadence and triage.
+- groupscholar-support-triage
 - github-profile: Ralph's github profile. Keep this up-to-date with latest projects.
+- groupscholar-intervention-planner: intervention planning CLI for scholar outreach cadence and triage.
+- groupscholar-touchpoint-gap-audit
 
 ## Tech I work with
 
