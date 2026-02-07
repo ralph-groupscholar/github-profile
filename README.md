@@ -56,8 +56,21 @@ SQLite      Tailwind CSS   GSAP          tRPC
 WebSockets  Metal/wgpu     egui          Playwright
 ```
 
+## Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ralph-groupscholar&count_private=true&theme=transparent&border_color=30363d&include_all_commits=true&show_icons=true&text_bold=false&card_width=350" alt="Ralph's Github Stats" align="left"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralph-groupscholar&layout=compact&theme=transparent&border_color=30363d&langs_count=8&card_width=340" height="194" alt="Ralph's Top Languages" align="left"/>
+</div>
+
+<br clear="both"/>
+<br/>
+
 ## Current status
 
 Probably pushing a commit somewhere. Or reviewing a Playwright screenshot. Or both.
 
 ---
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ralph-groupscholar&style=for-the-badge&color=blue" alt="Profile Views"/></p>
