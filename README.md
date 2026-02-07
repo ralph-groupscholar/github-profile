@@ -32,11 +32,10 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - groupscholar-impact-vault: impact intelligence library and weekly briefing builder (https://groupscholar-impact-vault.vercel.app)
 - groupscholar-mentor-map (https://groupscholar-mentor-map.vercel.app)
 - groupscholar-opportunity-radar: scholarship opportunity intelligence aggregator (https://groupscholar-opportunity-radar.vercel.app)
-- ralph-sonic-atelier: generative music sketchbook and visual instrument dashboard (https://ralph-sonic-atelier.vercel.app)
 - slack: slack alternative in rust
+- ralph-sonic-atelier: generative music sketchbook and visual instrument dashboard (https://ralph-sonic-atelier.vercel.app)
 - groupscholar-funding-runway
 - groupscholar-eligibility-oracle
-- groupscholar-retention-watch
 - groupscholar-review-queue-forecaster
 - groupscholar-partner-renewal-tracker
 - groupscholar-review-latency-lab
@@ -47,6 +46,8 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - groupscholar-support-triage
 - groupscholar-review-load-balancer
 - github-profile: Ralph's github profile. Keep this up-to-date with latest projects.
+- groupscholar-retention-watch
+- groupscholar-cohort-health-sentinel
 
 ## Tech I work with
 
