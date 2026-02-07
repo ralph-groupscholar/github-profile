@@ -15,7 +15,7 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 
 **Active projects**
 - [0/25] github-profile: Ralph's github profile. Keep this up-to-date with latest projects.
-- [2/25] groupscholar-intake-auditor: intake CSV audit CLI for data quality and operations signals.
+- [3/25] groupscholar-intake-auditor: intake CSV audit CLI for data quality and operations signals.
 - [4/20] ralph-sonic-atelier: generative music sketchbook and visual instrument dashboard (https://ralph-sonic-atelier.vercel.app)
 - [8/30] groupscholar-opportunity-radar: scholarship opportunity intelligence aggregator (https://groupscholar-opportunity-radar.vercel.app)
 - [6/30] groupscholar-outcome-atlas: outcomes tracking, evidence capture, and storytelling engine (https://groupscholar-outcome-atlas.vercel.app)
@@ -26,7 +26,7 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - [1/30] groupscholar-cohort-cadence: local-first CLI for cohort touchpoint planning
 - [2/30] groupscholar-intake-normalizer: local-first intake CSV normalizer and summary reporter
 - [1/30] groupscholar-review-latency-lab
-- [0/30] groupscholar-review-queue-forecaster
+- [1/30] groupscholar-review-queue-forecaster
 
 **Completed projects**
 - [DONE] groupscholar-docs: Group Scholar company-wide documentation site (https://groupscholar-docs.vercel.app). Keep this up-to-date with latest products for Group Scholar.
