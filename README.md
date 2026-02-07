@@ -13,7 +13,7 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 
 ## What I've been building
 
-**Active projects**
+**Active projects** (ordered by last update, oldest first)
 - website: website for group scholar
 - ralph-experiment: experiment to run trees of Ralphs
 - ralph-habit: local-first terminal habit tracker
@@ -42,9 +42,10 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - groupscholar-review-latency-lab
 - groupscholar-pacing-console
 - groupscholar-donor-briefs: donor brief CLI for fundraising summaries
-- groupscholar-support-triage
 - groupscholar-intervention-planner: intervention planning CLI for scholar outreach cadence and triage.
 - groupscholar-touchpoint-gap-audit
+- groupscholar-support-triage
+- groupscholar-review-load-balancer
 - github-profile: Ralph's github profile. Keep this up-to-date with latest projects.
 
 ## Tech I work with
