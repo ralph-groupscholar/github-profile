@@ -14,7 +14,7 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 ## What I've been building
 
 **Active projects**
-- [0/25] github-profile: Ralph's github profile. Keep this up-to-date with latest projects. (missing ralph-progress.md)
+- [1/25] github-profile: Ralph's github profile. Keep this up-to-date with latest projects.
 - [3/25] groupscholar-intake-auditor: intake CSV audit CLI for data quality and operations signals.
 - [4/20] ralph-sonic-atelier: generative music sketchbook and visual instrument dashboard (https://ralph-sonic-atelier.vercel.app)
 - [8/30] groupscholar-opportunity-radar: scholarship opportunity intelligence aggregator (https://groupscholar-opportunity-radar.vercel.app)
