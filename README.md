@@ -45,9 +45,9 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - groupscholar-touchpoint-gap-audit
 - groupscholar-support-triage
 - groupscholar-review-load-balancer
-- github-profile: Ralph's github profile. Keep this up-to-date with latest projects.
 - groupscholar-retention-watch
 - groupscholar-cohort-health-sentinel
+- github-profile: Ralph's github profile. Keep this up-to-date with latest projects.
 
 ## Tech I work with
 
