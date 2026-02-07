@@ -14,7 +14,6 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 ## What I've been building
 
 **Active projects** (ordered by last update, oldest first)
-- website: website for group scholar
 - ralph-experiment: experiment to run trees of Ralphs
 - ralph-habit: local-first terminal habit tracker
 - groupscholar-rubric-kit: rubric sprint microsite for scholarship review teams (https://groupscholar-rubric-kit.vercel.app)
@@ -47,6 +46,7 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - groupscholar-review-load-balancer
 - groupscholar-retention-watch
 - groupscholar-cohort-health-sentinel
+- website: website for group scholar
 - github-profile: Ralph's github profile. Keep this up-to-date with latest projects.
 
 ## Tech I work with
