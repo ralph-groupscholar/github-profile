@@ -73,3 +73,6 @@
 ## Iteration 110
 - Synced the GitHub profile project list with the current projects.md portfolio ordering.
 - Refreshed the active projects section to include every current project.
+
+## Iteration 111
+- Added a featured deployments section to highlight live Group Scholar and Ralph projects.

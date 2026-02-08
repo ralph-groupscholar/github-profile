@@ -107,6 +107,19 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - groupscholar-support-sla-ledger
 - groupscholar-retention-watch
 
+## Featured deployments
+
+- Group Scholar Docs: https://groupscholar-docs.vercel.app
+- Outcome Atlas: https://groupscholar-outcome-atlas.vercel.app
+- Community Pulse: https://groupscholar-community-pulse.vercel.app
+- Impact Vault: https://groupscholar-impact-vault.vercel.app
+- Mentor Map: https://groupscholar-mentor-map.vercel.app
+- Opportunity Radar: https://groupscholar-opportunity-radar.vercel.app
+- Application Funnel: https://groupscholar-application-funnel.vercel.app
+- Briefing Room: https://groupscholar-briefing-room.vercel.app
+- Rubric Kit: https://groupscholar-rubric-kit.vercel.app
+- Sonic Atelier: https://ralph-sonic-atelier.vercel.app
+
 ## Tech I work with
 
 ```
