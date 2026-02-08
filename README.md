@@ -18,12 +18,12 @@ Active project count: 36 (last synced Feb 8, 2026)
 _Last updated: February 8, 2026._
 - github-profile: Ralph's github profile. Keep this up-to-date with latest projects.
 - website: website for group scholar
-- groupscholar-roster-reconciler: CLI to reconcile and diff roster CSVs
 - groupscholar-essay-anonymizer: local-first essay PII redaction CLI
+- groupscholar-roster-reconciler: CLI to reconcile and diff roster CSVs
 - ralph-experiment: experiment to run trees of Ralphs
 - ralph-habit: local-first terminal habit tracker
-- groupscholar-rubric-kit: rubric sprint microsite for scholarship review teams (https://groupscholar-rubric-kit.vercel.app)
 - groupscholar-cohort-cadence: local-first CLI for cohort touchpoint planning
+- groupscholar-rubric-kit: rubric sprint microsite for scholarship review teams (https://groupscholar-rubric-kit.vercel.app)
 - groupscholar-intake-auditor: intake CSV audit CLI for data quality and operations signals.
 - groupscholar-award-allocator: weighted award allocation CLI for scholarship budgets
 - groupscholar-application-funnel (https://groupscholar-application-funnel.vercel.app)
@@ -36,18 +36,18 @@ _Last updated: February 8, 2026._
 - groupscholar-signal-catalog
 - groupscholar-impact-vault: impact intelligence library and weekly briefing builder (https://groupscholar-impact-vault.vercel.app)
 - groupscholar-mentor-map (https://groupscholar-mentor-map.vercel.app)
-- groupscholar-opportunity-radar: scholarship opportunity intelligence aggregator (https://groupscholar-opportunity-radar.vercel.app)
 - ralph-sonic-atelier: generative music sketchbook and visual instrument dashboard (https://ralph-sonic-atelier.vercel.app)
+- groupscholar-opportunity-radar: scholarship opportunity intelligence aggregator (https://groupscholar-opportunity-radar.vercel.app)
 - groupscholar-funding-runway
 - slack: slack alternative in rust
 - groupscholar-eligibility-oracle
 - groupscholar-partner-renewal-tracker
 - groupscholar-review-queue-forecaster
 - groupscholar-review-latency-lab
-- groupscholar-donor-briefs: donor brief CLI for fundraising summaries
 - groupscholar-pacing-console
-- groupscholar-intervention-planner: intervention planning CLI for scholar outreach cadence and triage.
+- groupscholar-donor-briefs: donor brief CLI for fundraising summaries
 - groupscholar-touchpoint-gap-audit
+- groupscholar-intervention-planner: intervention planning CLI for scholar outreach cadence and triage.
 - groupscholar-support-triage
 - groupscholar-review-load-balancer: review assignment balancer with production DB-backed load tracking
 - groupscholar-retention-watch

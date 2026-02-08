@@ -62,3 +62,7 @@
 
 ## Iteration 40
 - Updated the profile README with a fresh last-updated date for the active project list.
+
+## Iteration 87
+- Synced the GitHub profile project list ordering with projects.md.
+- Updated the profile list ordering for consistency with the master portfolio.
