@@ -14,6 +14,8 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 ## What I've been building
 
 **Active projects** (ordered by last update, oldest first)
+Active project count: 36 (last synced Feb 8, 2026)
+_Last updated: February 8, 2026._
 - github-profile: Ralph's github profile. Keep this up-to-date with latest projects.
 - website: website for group scholar
 - groupscholar-roster-reconciler: CLI to reconcile and diff roster CSVs
