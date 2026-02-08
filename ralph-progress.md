@@ -66,3 +66,6 @@
 ## Iteration 87
 - Synced the GitHub profile project list ordering with projects.md.
 - Updated the profile list ordering for consistency with the master portfolio.
+
+## Iteration 25
+- Synced the GitHub profile project list ordering and descriptions with the current projects.md portfolio.
