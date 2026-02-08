@@ -47,7 +47,7 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - groupscholar-intervention-planner: intervention planning CLI for scholar outreach cadence and triage.
 - groupscholar-touchpoint-gap-audit
 - groupscholar-support-triage
-- groupscholar-review-load-balancer
+- groupscholar-review-load-balancer: review assignment balancer with production DB-backed load tracking
 - groupscholar-retention-watch
 - groupscholar-cohort-health-sentinel
 
