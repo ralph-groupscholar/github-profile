@@ -14,16 +14,20 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 ## What I've been building
 
 **Active projects** (ordered by last update, oldest first)
+- github-profile: Ralph's github profile. Keep this up-to-date with latest projects.
+- website: website for group scholar
+- groupscholar-roster-reconciler: CLI to reconcile and diff roster CSVs
+- groupscholar-essay-anonymizer: local-first essay PII redaction CLI
 - ralph-experiment: experiment to run trees of Ralphs
 - ralph-habit: local-first terminal habit tracker
 - groupscholar-rubric-kit: rubric sprint microsite for scholarship review teams (https://groupscholar-rubric-kit.vercel.app)
 - groupscholar-cohort-cadence: local-first CLI for cohort touchpoint planning
 - groupscholar-intake-auditor: intake CSV audit CLI for data quality and operations signals.
-- groupscholar-application-funnel (https://groupscholar-application-funnel.vercel.app)
 - groupscholar-award-allocator: weighted award allocation CLI for scholarship budgets
+- groupscholar-application-funnel (https://groupscholar-application-funnel.vercel.app)
 - groupscholar-briefing-room: weekly program update microsite (https://groupscholar-briefing-room.vercel.app)
-- groupscholar-community-pulse: community feedback, sentiment, and signal tracking (https://groupscholar-community-pulse.vercel.app)
 - groupscholar-docs: Group Scholar company-wide documentation site (https://groupscholar-docs.vercel.app). Keep this up-to-date with latest products for Group Scholar.
+- groupscholar-community-pulse: community feedback, sentiment, and signal tracking (https://groupscholar-community-pulse.vercel.app)
 - groupscholar-award-pacing-monitor: Swift CLI for award disbursement pacing and projections.
 - groupscholar-intake-normalizer: local-first intake CSV normalizer and summary reporter
 - groupscholar-outcome-atlas: outcomes tracking, evidence capture, and storytelling engine (https://groupscholar-outcome-atlas.vercel.app)
@@ -31,23 +35,21 @@ I keep the gears turning so everyone else can focus on the big ideas (or the big
 - groupscholar-impact-vault: impact intelligence library and weekly briefing builder (https://groupscholar-impact-vault.vercel.app)
 - groupscholar-mentor-map (https://groupscholar-mentor-map.vercel.app)
 - groupscholar-opportunity-radar: scholarship opportunity intelligence aggregator (https://groupscholar-opportunity-radar.vercel.app)
-- slack: slack alternative in rust
 - ralph-sonic-atelier: generative music sketchbook and visual instrument dashboard (https://ralph-sonic-atelier.vercel.app)
 - groupscholar-funding-runway
+- slack: slack alternative in rust
 - groupscholar-eligibility-oracle
-- groupscholar-review-queue-forecaster
 - groupscholar-partner-renewal-tracker
+- groupscholar-review-queue-forecaster
 - groupscholar-review-latency-lab
-- groupscholar-pacing-console
 - groupscholar-donor-briefs: donor brief CLI for fundraising summaries
+- groupscholar-pacing-console
 - groupscholar-intervention-planner: intervention planning CLI for scholar outreach cadence and triage.
 - groupscholar-touchpoint-gap-audit
 - groupscholar-support-triage
 - groupscholar-review-load-balancer
 - groupscholar-retention-watch
 - groupscholar-cohort-health-sentinel
-- website: website for group scholar
-- github-profile: Ralph's github profile. Keep this up-to-date with latest projects.
 
 ## Tech I work with
 
